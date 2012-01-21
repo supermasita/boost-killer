@@ -1,7 +1,5 @@
 BOOST KILLER
 ============
-https://github.com/supermasita/boost-killer
--------------------------------------------
 
 This a is a script to clean Drupal's Boost Page Cache (http://drupal.org/project/boost) when using "Retro mode" (no database).
 
