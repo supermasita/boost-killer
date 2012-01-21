@@ -10,6 +10,7 @@ This a is a script to clean Drupal's Boost Page Cache when using "Retro mode"
 
 The script requires that the Boost tag is enabled (chech "Performance/Boost" 
 config). In the end of the static HTML you shoud see something like :
+
 <!-- Page cached by Boost @ 2012-01-20 12:42:18, expires @ 2012-01-20 12:57:18 -->
 
 This tag is used by the script to detect if the static HTML is current or should
